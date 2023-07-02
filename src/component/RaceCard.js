@@ -12,9 +12,15 @@ function RaceCard() {
     "저그 심시티"
   ]
   const raceImages = [
-    "https://www.wolyo.co.kr/news/photo/202110/123485_82263_3829.jpg",
-    "https://www.wolyo.co.kr/news/photo/202110/123485_82263_3829.jpg",
-    "https://image.homeplus.kr/td/d1830283-8f60-4999-b824-8f7f24635dad"
+    "https://i.namu.wiki/i/dBfkYm0hrmUONjVBWB_v2VF5xFZBS6MC08KLdw5pLK6k2hoIPO4amyWdQ7rDHTGRWvW_voaVgsWVlnlBuyZCkw.webp",
+    "https://i.namu.wiki/i/iqYTMR_kMi8jEazo1214yhv13WssGwP5JrZZ8tOVJVtcwQ-CHDoOqwagiWal0UAzGK9Qg5RHjBcok47-0Li4oQ.webp",
+    "https://i.namu.wiki/i/BPo0j27WYeICHyfjTdUpcPofsjVdbDj37T9RYm-P8KdfVXXz0u84VxRjH-MmDd9A1bwZiUDdbm669aY7oDVKCw.webp"
+  ]
+
+  const raceLink = [
+    "/protoss",
+    "/terran",
+    "/zerg",
   ]
 
   return (
@@ -29,7 +35,7 @@ function RaceCard() {
                 <Card.Text>
                   {raceExplanation[idx]}
                 </Card.Text>
-                <Button variant="primary">Go somewhere</Button>
+                <Button variant="primary" href={raceLink[idx]}>바로가기</Button>
               </Card.Body>
             </Card>
           </Col>
