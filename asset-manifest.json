@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/StarCraftBook/static/css/main.4da62354.css",
-    "main.js": "/StarCraftBook/static/js/main.5f080d96.js",
+    "main.js": "/StarCraftBook/static/js/main.d9789045.js",
     "index.html": "/StarCraftBook/index.html",
     "main.4da62354.css.map": "/StarCraftBook/static/css/main.4da62354.css.map",
-    "main.5f080d96.js.map": "/StarCraftBook/static/js/main.5f080d96.js.map"
+    "main.d9789045.js.map": "/StarCraftBook/static/js/main.d9789045.js.map"
   },
   "entrypoints": [
     "static/css/main.4da62354.css",
-    "static/js/main.5f080d96.js"
+    "static/js/main.d9789045.js"
   ]
 }
