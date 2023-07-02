@@ -4,7 +4,6 @@ import NavbarMain from "../Navbar_main";
 import Card from "react-bootstrap/Card";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
-import Button from "react-bootstrap/Button";
 import ProtossData from "./RaceInfo.json";
 import Form from "react-bootstrap/Form";
 import { Fragment } from "react";

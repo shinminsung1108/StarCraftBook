@@ -8,8 +8,8 @@ function App() {
       <BrowserRouter>
         <div className="App">
           <Routes>
-            <Route path="/" element={<MainPage />} />
-            <Route path="/protoss" element={<Protoss />} />
+            <Route path="/react-10CB" element={<MainPage />} />
+            <Route path="/react-10CB/protoss" element={<Protoss />} />
           </Routes>
         </div>
       </BrowserRouter>
