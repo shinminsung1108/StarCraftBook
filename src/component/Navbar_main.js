@@ -9,11 +9,11 @@ function NavbarMain () {
         <Fragment>
             <Navbar expand="lg" className="bg-body-tertiary">
                 <Container>
-                    <Navbar.Brand href="/">StarCraft 10CB</Navbar.Brand>
+                    <Navbar.Brand href="/react-10CB">StarCraft 10CB</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto">
-                            <Nav.Link href="/">메인화면</Nav.Link>
+                            <Nav.Link href="/react-10CB">메인화면</Nav.Link>
                             <NavDropdown title="메뉴" id="basic-nav-dropdown">
                                 <NavDropdown.Item href="/members">인원</NavDropdown.Item>
                                 <NavDropdown.Item href="/league">리그기록</NavDropdown.Item>
