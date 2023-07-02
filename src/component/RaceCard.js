@@ -18,9 +18,9 @@ function RaceCard() {
   ]
 
   const raceLink = [
-    "/react-10CB/protoss",
-    "/react-10CB/terran",
-    "/react-10CB/zerg",
+    "/StarCraftBook/protoss",
+    "/StarCraftBook/terran",
+    "/StarCraftBook/zerg",
   ]
 
   return (

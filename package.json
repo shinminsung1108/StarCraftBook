@@ -1,8 +1,8 @@
 {
-  "name": "react-10cb",
+  "name": "starcraft-book",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shinminsung1108.github.io/react-10CB/",
+  "homepage": "https://shinminsung1108.github.io/StarCraftBook/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

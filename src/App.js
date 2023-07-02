@@ -10,10 +10,10 @@ function App() {
       <BrowserRouter>
         <div className="App">
           <Routes>
-            <Route path="/react-10CB" element={<MainPage />} />
-            <Route path="/react-10CB/protoss" element={<Protoss />} />
-            <Route path="/react-10CB/terran" element={<Terran />} />
-            <Route path="/react-10CB/zerg" element={<Zerg />} />
+            <Route path="/StarCraftBook" element={<MainPage />} />
+            <Route path="/StarCraftBook/protoss" element={<Protoss />} />
+            <Route path="/StarCraftBook/terran" element={<Terran />} />
+            <Route path="/StarCraftBook/zerg" element={<Zerg />} />
 
           </Routes>
         </div>
