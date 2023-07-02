@@ -36,8 +36,8 @@ function ImageSlider() {
           style={{ height: "50vh", objectFit: "cover" }}
         />
         <Carousel.Caption>
-          <h3>오픈채팅방 10CB</h3>
-          <p>스타실력을 늘리고 싶으신분들 어서 들어오세요 !.</p>
+          <h3>종족별 빌드오더</h3>
+          <p>게임을 이기기 어려우시다면 빌드를 익혀 승리를 쟁취하세요 !</p>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>

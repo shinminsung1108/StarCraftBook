@@ -23,6 +23,18 @@ function RaceCard() {
     "/StarCraftBook/zerg",
   ]
 
+  const raceBuild = [
+    "프로토스 빌드",
+    "테란 빌드",
+    "저그 빌드"
+  ]
+
+  const raceBuildLink = [
+    "/StarCraftBook/protossbuild",
+    "/StarCraftBook/terranbuild",
+    "/StarCraftBook/zergbuild",
+  ]
+
   return (
     <Container style={{ width: "90%", marginTop: "20px"}}>
       <Row xs={1} md={3} className="g-4">
@@ -36,6 +48,23 @@ function RaceCard() {
                   {raceExplanation[idx]}
                 </Card.Text>
                 <Button variant="primary" href={raceLink[idx]}>바로가기</Button>
+              </Card.Body>
+            </Card>
+          </Col>
+        ))}
+      </Row>
+
+      <Row xs={1} md={3} className="g-4 mt-3">
+        {Array.from({ length: 3 }).map((_, idx) => (
+          <Col key={idx}>
+            <Card>
+              <Card.Img variant="top" src={raceImages[idx]} />
+              <Card.Body>
+                <Card.Title>{raceName[idx]}</Card.Title>
+                <Card.Text>
+                  {raceBuild[idx]}
+                </Card.Text>
+                <Button variant="primary" href={raceBuildLink[idx]} disabled>바로가기(Coming Soon)</Button>
               </Card.Body>
             </Card>
           </Col>

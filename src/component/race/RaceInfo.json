@@ -8,8 +8,8 @@
     { "id": 6, "title": "투혼", "place": "5시 앞마당", "race": "프로토스", "img": "images/protoss/투혼5시저그전.png"},
     { "id": 7, "title": "투혼", "place": "7시 앞마당", "race": "프로토스", "img": "images/protoss/투혼7시저그전.png"},
     { "id": 8, "title": "투혼", "place": "11시 앞마당", "race": "프로토스", "img": "images/protoss/투혼11시저그전.png"},
-    { "id": 6, "title": "이클립스", "place": "1시 앞마당", "race": "프로토스", "img": "images/protoss/이클립스1시앞마당.png"},
-    { "id": 7, "title": "이클립스", "place": "7시 앞마당", "race": "프로토스", "img": "images/protoss/이클립스7시앞마당.png"},
+    { "id": 6, "title": "이클립스", "place": "1시 앞마당", "race": "프로토스", "img": "images/protoss/이클립스1시앞마당.jpg"},
+    { "id": 7, "title": "이클립스", "place": "7시 앞마당", "race": "프로토스", "img": "images/protoss/이클립스7시앞마당.jpg"},
     { "id": 8, "title": "이클립스", "place": "7시 앞마당 파일런 위치", "race": "프로토스", "img": "images/protoss/이클립스7시파일런.png"},
 
 
@@ -32,6 +32,30 @@
     { "id": 22, "title": "투혼", "place": "1시 본진", "race": "테란", "img": "images/terran/투혼1시본진.png"},
     { "id": 23, "title": "투혼", "place": "5시 본진", "race": "테란", "img": "images/terran/투혼5시본진.png" },
     { "id": 24, "title": "투혼", "place": "7시 본진 ", "race": "테란", "img": "images/terran/투혼7시본진.png"},
-    { "id": 25, "title": "투혼", "place": "11시 본진", "race": "테란", "img": "images/terran/투혼11시본진.png"}
+    { "id": 25, "title": "투혼", "place": "11시 본진", "race": "테란", "img": "images/terran/투혼11시본진.png"},
+
+    { "id": 26, "title": "폴리포이드", "place": "1시 앞마당", "race": "프로토스", "img": "images/protoss/폴리1시앞마당.jpg"},
+    { "id": 27, "title": "폴리포이드", "place": "5시 앞마당", "race": "프로토스", "img": "images/protoss/폴리5시앞마당.jpg" },
+    { "id": 28, "title": "폴리포이드", "place": "7시 앞마당 ", "race": "프로토스", "img": "images/protoss/폴리7시앞마당.jpg"},
+    { "id": 29, "title": "폴리포이드", "place": "11시 앞마당", "race": "프로토스", "img": "images/protoss/폴리11시앞마당.jpg"},
+
+    { "id": 30, "title": "버미어", "place": "1시 앞마당", "race": "프로토스", "img": "images/protoss/버미어1시앞마당.jpg"},
+    { "id": 31, "title": "버미어", "place": "5시 앞마당", "race": "프로토스", "img": "images/protoss/버미어5시앞마당.jpg" },
+    { "id": 32, "title": "버미어", "place": "7시 앞마당", "race": "프로토스", "img": "images/protoss/버미어7시앞마당.jpg"},
+    { "id": 33, "title": "버미어", "place": "11시 앞마당", "race": "프로토스", "img": "images/protoss/버미어11시앞마당.jpg"},
+
+    { "id": 34, "title": "실피드", "place": "12시 앞마당", "race": "프로토스", "img": "images/protoss/실피드12시앞마당.jpg" },
+    { "id": 35, "title": "실피드", "place": "3시 앞마당 ", "race": "프로토스", "img": "images/protoss/실피드3시앞마당.jpg"},
+    { "id": 36, "title": "실피드", "place": "5시 앞마당", "race": "프로토스", "img": "images/protoss/실피드5시앞마당.jpg"},
+
+    { "id": 37, "title": "버미어", "place": "1시 본진", "race": "프로토스", "img": "images/protoss/버미어1시본진.jpg"},
+    { "id": 38, "title": "버미어", "place": "5시 본진", "race": "프로토스", "img": "images/protoss/버미어5시본진.jpg" },
+    { "id": 39, "title": "버미어", "place": "7시 본진", "race": "프로토스", "img": "images/protoss/버미어7시본진.jpg"},
+    { "id": 40, "title": "버미어", "place": "11시 본진", "race": "프로토스", "img": "images/protoss/버미어11시본진.jpg"},
+
+    { "id": 41, "title": "폴리포이드", "place": "1시 본진", "race": "프로토스", "img": "images/protoss/폴리1시본진.jpg", "content": "토스봇 심시티"},
+    { "id": 42, "title": "폴리포이드", "place": "5시 본진", "race": "프로토스", "img": "images/protoss/폴리5시본진.jpg", "content": "토스봇 심시티"},
+    { "id": 43, "title": "폴리포이드", "place": "7시 본진", "race": "프로토스", "img": "images/protoss/폴리7시본진.jpg", "content": "토스봇 심시티"},
+    { "id": 44, "title": "폴리포이드", "place": "11시 본진", "race": "프로토스", "img": "images/protoss/폴리11시본진.jpg", "content": "토스봇 심시티"}
 
 ]

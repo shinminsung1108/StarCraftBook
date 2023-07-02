@@ -14,7 +14,6 @@ function App() {
             <Route path="/StarCraftBook/protoss" element={<Protoss />} />
             <Route path="/StarCraftBook/terran" element={<Terran />} />
             <Route path="/StarCraftBook/zerg" element={<Zerg />} />
-
           </Routes>
         </div>
       </BrowserRouter>

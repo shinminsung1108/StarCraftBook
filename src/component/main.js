@@ -19,7 +19,7 @@ function MainPage() {
             }}
                 fluid
             >
-                <h3>오픈채팅방 : 10CB</h3>
+                ,
             </Container>
         </Fragment>
     )
