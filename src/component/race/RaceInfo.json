@@ -10,5 +10,28 @@
     { "id": 8, "title": "투혼", "place": "11시 앞마당", "race": "프로토스", "img": "images/protoss/투혼11시저그전.png"},
     { "id": 6, "title": "이클립스", "place": "1시 앞마당", "race": "프로토스", "img": "images/protoss/이클립스1시앞마당.png"},
     { "id": 7, "title": "이클립스", "place": "7시 앞마당", "race": "프로토스", "img": "images/protoss/이클립스7시앞마당.png"},
-    { "id": 8, "title": "이클립스", "place": "7시 앞마당 파일런 위치", "race": "프로토스", "img": "images/protoss/이클립스7시파일런.png"}
+    { "id": 8, "title": "이클립스", "place": "7시 앞마당 파일런 위치", "race": "프로토스", "img": "images/protoss/이클립스7시파일런.png"},
+
+
+    { "id": 9, "title": "투혼", "place": "1시 앞마당", "race": "저그", "img": "images/zerg/투혼1시앞마당.png", "content": "해처리 왼쪽 히덴이어야 질럿이 못지나감"},
+    { "id": 10, "title": "투혼", "place": "5시 앞마당", "race": "저그", "img": "images/zerg/투혼5시앞마당.png", "content": "챔버 사이로 질럿 못지나감"},
+    { "id": 11, "title": "투혼", "place": "7시 앞마당", "race": "저그", "img": "images/zerg/투혼7시앞마당.png", "content": "오른쪽 챔버여야만 질럿이 사이에 못지나감"},
+    { "id": 12, "title": "투혼", "place": "11시 앞마당", "race": "저그", "img": "images/zerg/투혼11시앞마당.png", "content": "챔버여야만 질럿이 못지나감"},
+
+    { "id": 13, "title": "버미어", "place": "1시 토스전 본진입구", "race": "테란", "img": "images/terran/버미어1시입구토스전.png", "content": "배럭 왼쪽은 저글링 통과 가능"},
+    { "id": 14, "title": "버미어", "place": "1시 저그전 본진입구", "race": "테란", "img": "images/terran/버미어1시입구저그전.png", "content": "투서플원배럭으로 완막"},
+    { "id": 15, "title": "버미어", "place": "5시 앞마당입구", "race": "테란", "img": "images/terran/버미어5시앞마당.png", "content": "아래에 배럭을 지으면 질럿 통과 가능"},
+    { "id": 16, "title": "버미어", "place": "5시 토스전 본진입구", "race": "테란", "img": "images/terran/버미어5시입구토스전.png", "content": "마린만 통과가능 왼쪽으로 저글링 통과됨"},
+
+    { "id": 17, "title": "버미어", "place": "5시 저그전 본진입구", "race": "테란", "img": "images/terran/버미어5시입구저그전.png", "content": "SBS심시티 좌우로 1칸씩 움직여도됨"},
+    { "id": 18, "title": "버미어", "place": "7시 토스전 본진입구", "race": "테란", "img": "images/terran/버미어7시입구토스전.png", "content": "좌배럭 우서플"},
+    { "id": 19, "title": "버미어", "place": "7시 저그전 본진입구", "race": "테란", "img": "images/terran/버미어7시입구저그전.png", "content": "점박이 지형을 눈여겨보며 지으면됨"},
+    { "id": 20, "title": "버미어", "place": "11시 토스전 앞마당", "race": "테란", "img": "images/terran/버미어11시입구토스전.png", "content": "배력 왼쪽은 저글링 통과 가능"},
+    { "id": 21, "title": "버미어", "place": "11시 저그전 앞마당", "race": "테란", "img": "images/terran/버미어11시입구저그전.png", "content": "완막 심시티 마린 나가는건 가능 들어오는건 불가능"},
+
+    { "id": 22, "title": "투혼", "place": "1시 본진", "race": "테란", "img": "images/terran/투혼1시본진.png"},
+    { "id": 23, "title": "투혼", "place": "5시 본진", "race": "테란", "img": "images/terran/투혼5시본진.png" },
+    { "id": 24, "title": "투혼", "place": "7시 본진 ", "race": "테란", "img": "images/terran/투혼7시본진.png"},
+    { "id": 25, "title": "투혼", "place": "11시 본진", "race": "테란", "img": "images/terran/투혼11시본진.png"}
+
 ]

@@ -4,11 +4,11 @@ import NavbarMain from "../Navbar_main";
 import Card from "react-bootstrap/Card";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
-import ProtossData from "./RaceInfo.json";
+import TerranData from "./RaceInfo.json";
 import Form from "react-bootstrap/Form";
 import { Fragment } from "react";
 
-function Protoss() {
+function Terran() {
   const [searchTerm, setSearchTerm] = useState("");
   const [showModal, setShowModal] = useState(false);
   const [selectedImage, setSelectedImage] = useState(null);
@@ -26,9 +26,9 @@ function Protoss() {
     setShowModal(false);
   };
 
-  const filteredProtossData = ProtossData.filter((item) => {
+  const filteredTerranData = TerranData.filter((item) => {
     return (
-      item.race === "프로토스" &&
+      item.race === "테란" &&
       item.title.toLowerCase().includes(searchTerm.toLowerCase())
     );
   });
@@ -48,7 +48,7 @@ function Protoss() {
           />
         </Form>
         <Row xs={1} md={4} className="g-4">
-          {filteredProtossData.map((item, idx) => (
+          {filteredTerranData.map((item, idx) => (
             <Col key={idx}>
               <Card>
                 <Card.Img
@@ -80,4 +80,4 @@ function Protoss() {
   );
 }
 
-export default Protoss;
+export default Terran;

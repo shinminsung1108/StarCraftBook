@@ -15,10 +15,10 @@ function NavbarMain () {
                         <Nav className="me-auto">
                             <Nav.Link href="/react-10CB">메인화면</Nav.Link>
                             <NavDropdown title="메뉴" id="basic-nav-dropdown">
-                                <NavDropdown.Item href="/members">인원</NavDropdown.Item>
-                                <NavDropdown.Item href="/league">리그기록</NavDropdown.Item>
-                                <NavDropdown.Item href="/kakaoTalk">카카오톡</NavDropdown.Item>
-                                <NavDropdown.Item href="/discord">디스코드</NavDropdown.Item>
+                                <NavDropdown.Item href="/react-10CB/members" disabled>인원(Coming Soon)</NavDropdown.Item>
+                                <NavDropdown.Item href="/react-10CB/league" disabled>리그기록(Coming Soon)</NavDropdown.Item>
+                                <NavDropdown.Item href="https://open.kakao.com/o/gR30yMmf" target="_blank">카카오톡</NavDropdown.Item>
+                                <NavDropdown.Item href="https://discord.gg/aNpkRxCJuz" target="_blank">디스코드</NavDropdown.Item>
                             </NavDropdown>
                         </Nav>
                     </Navbar.Collapse>
